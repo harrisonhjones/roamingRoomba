@@ -22,3 +22,7 @@
 
 # Matlab Save Files
 *.asv
+
+# Windows Crap
+Thumbs.db
+desktop.ini
